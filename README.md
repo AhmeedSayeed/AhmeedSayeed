@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&background=000000&width=600&lines=Hello%2C+I+am+Ahmed" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 # 💫 About Me:
