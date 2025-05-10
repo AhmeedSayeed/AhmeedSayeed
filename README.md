@@ -2,7 +2,7 @@
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00FFFF&background=00000000&width=900&lines=Ahmed+Sayed+%7C+Fullstack+Developer;Competitive+Programmer+and+Problem+Solver" 
     alt="Typing SVG" 
-    style="width: 100%; max-width: 1000px;" 
+    style="align: center; width: 100%; max-width: 1000px;" 
   />
 </h1>
 
