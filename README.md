@@ -36,9 +36,6 @@
   <a href="https://www.linkedin.com/in/ahmed-sayed-52283b304/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="https://codeforces.com/profile/3RBY" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968940.png" alt="codeforces" height="30" width="30" />
-  </a>
 </p>
 
 ---
