@@ -3,11 +3,6 @@
 </h1>
 
 
-
-# 💫 About Me:
-🔭 I’m currently working on: competitive programming & personal web projects<br>🌱 I’m currently learning: .NET<br>👨‍💻 My Codeforces: 3RBY<br>📫 Reach me via LinkedIn: Ahmed Sayed<br>⚡ Fun fact: I turn coffee into code ☕
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeedsayeed&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeedsayeed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
