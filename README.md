@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=21&text=Welcome%20to%20my%20profile!&textBg=false&fontSize=55&animation=twinkling&fontColor=dddddd&stroke=282829&strokeWidth=0.3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Welcome%20to%20my%20profile!&textBg=false&fontSize=55&animation=twinkling&fontColor=dddddd&stroke=282829&strokeWidth=0.3)
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 300px; width: 100%; overflow: hidden;">
   <img 
