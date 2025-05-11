@@ -37,3 +37,6 @@
 ---
 
 > *"Programs must be written for people to read, and only incidentally for machines to execute."* – Harold Abelson
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=21&text=Welcome%20to%20my%20profile!&textBg=false&fontSize=55&animation=twinkling&fontColor=eeeeee)
