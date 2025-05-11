@@ -1,9 +1,5 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 300px; width: 100%; overflow: hidden;">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&vCenter=true&color=00FFFF&background=00000000&width=900&lines=Ahmed+Sayed+%7C+Fullstack+Developer;Competitive+Programmer+and+Problem+Solver" 
-    alt="Typing SVG" 
-    style="width: 100%; max-width: 1000px; height: auto; text-align: center;" 
-  />
+  https://capsule-render.vercel.app/api?type=venom&height=300&customColorList=21&text=Welcome%20to%20my%20profile!&textBg=false&fontSize=55&animation=twinkling&fontColor=gradient&stroke=80d0c7&strokeWidth=0.3
 </div>
 
 
